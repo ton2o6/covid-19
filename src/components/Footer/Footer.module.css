@@ -1,0 +1,17 @@
+.container {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 32px 0 -10px;
+}
+
+a,
+a:visited {
+  color: rgba(54, 212, 193, 0.5);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(54, 212, 193, 0.8);
+  cursor: pointer;
+}

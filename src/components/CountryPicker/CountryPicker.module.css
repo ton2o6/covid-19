@@ -1,0 +1,8 @@
+.formControl {
+  width: 30vw;
+  margin-bottom: 30px !important;
+}
+
+select {
+  padding-left: 4px !important;
+}
